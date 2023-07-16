@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="gameAbout">\t\t\t\t\t本游戏为全触摸操作，向左右滑动屏幕使方块左右移动，
+        长按屏幕使方块加速下落。\n\t\t\t\t\t连消2行加3分，连消3行加6分，连消4行加9分。
+        在游戏记录中可查看之前的游戏成绩</string>
+</resources>

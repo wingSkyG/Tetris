@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="block1Color">#00CD00</color>
+    <color name="block2Color">#fc07e3</color>
+    <color name="block3Color">#438bf1</color>
+    <color name="block4Color">#f9f503</color>
+    <color name="block5Color">#cd7b00</color>
+    <color name="block6Color">#cd0082</color>
+    <color name="wallColor">#e60707</color>
+    <color name="tableBodyColor">#b9b7b7</color>
+    <color name="tableHeaderColor">#bc4cfd</color>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:stretchColumns="*"
+    android:id="@+id/table_body"><!--所有列下的所有单元格允许被拉伸-->
+    <TableRow>
+        <TextView
+            android:id="@+id/table_body_date"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/table_body_del2LineTimes"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/table_body_delThreeLineTimes"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/table_body_delFourLineTimes"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/table_body_score"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+    </TableRow>
+</TableLayout>

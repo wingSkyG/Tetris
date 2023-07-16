@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/table_header"
+    android:stretchColumns="*">
+    <TableRow>
+        <TextView
+            android:id="@+id/table_header_date"
+            android:text="游戏日期"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/table_header_del2LineTimes"
+            android:text="二连消"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/table_header_delThreeLineTimes"
+            android:text="三连消"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/table_header_delFourLineTimes"
+            android:text="四连消"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/table_header_score"
+            android:text="最高分"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+    </TableRow>
+</TableLayout>
